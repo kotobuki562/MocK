@@ -1,0 +1,126 @@
+body{
+  background: linear-gradient(#F7E6A0, #F766A0 ) fixed;
+}
+
+.container{
+  max-width: 1600px;
+  width:100%;
+  margin: 0 auto;
+}
+.top-wrapper{
+  padding-top: 20px;
+  max-width: 1600px;
+  margin: 0 auto;
+  background-color:rgb(234,55,242,0.5);
+  width:100%;
+  height: 600px;
+}
+.main{
+  color:white;
+  text-align: center;
+}
+.main h1{
+  font-size: 100px;
+  font-family: serif;
+}
+.main p{
+  font-size: 15px;
+}
+.pixel{
+  color:rgb(118,251,220);
+  font-style: oblique;
+  font-size: 17px;
+}
+.fasion{
+  font-style: oblique;
+  color:#F7CE48;
+  font-size: 17px;
+}
+.btn-wrapper{
+  margin-top: 50px;
+  text-align: center;
+  color:white;
+}
+.btn-wrapper a{
+  color:white;
+}
+.btn:hover{
+  opacity: 1;
+}
+.btn{
+  opacity: 0.8;
+  border-radius: 5px;
+  padding:5px 0px;
+  width:130px;
+  display:inline-block;
+}
+.join{
+  background-color:#33FF99;
+}
+.Twitter{
+  background-color:#4DA0EB;
+}
+.Facebook{
+  margin-left: 15px;
+  background-color:#415998;
+}
+.fab{
+  margin-right: 7px;
+}
+.contents{
+  text-align: center;
+  height:600px;
+}
+
+.apple{
+  width:25%;
+  border-radius: 10px;
+  background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
+
+  height: 200px;
+  width:320px;
+}
+.banana{
+  width:25%;
+  border-radius: 10px;
+  background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
+  height: 200px;
+  width:320px;
+}
+.corn{
+  width:25%;
+  border-radius: 10px;
+  background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
+  height: 200px;
+  width:320px;
+}
+.donut{
+  width:25%;
+  border-radius: 10px;
+  background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
+  height: 200px;
+  width:320px;
+}
+.design p{
+  padding:10px 0px;
+  width:30%;
+  display: inline-block;
+  letter-spacing: 3px;
+  font-family: Impact;
+  border-radius: 7px;
+    background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
+  color:#F7CE48;
+  text-align: center;
+}
+.design{
+  margin-right: 20px;
+  opacity: 0.8;
+  margin-top:30px;
+  float:left;
+}
+
+.design:hover{
+  border-radius: 15px;
+  background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
+  opacity:1;
+}
