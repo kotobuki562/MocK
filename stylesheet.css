@@ -1,5 +1,5 @@
 body{
-  background: linear-gradient(#F7E6A0, #F766A0 ) fixed;
+  background: linear-gradient(#FF94FA, #FF9476 ) fixed;
 }
 .header{
   background-color: white;
@@ -95,6 +95,11 @@ body{
 .Facebook{
   margin-left: 15px;
   background-color:#415998;
+}
+.insta{
+  background-size: auto;
+  margin-left: 15px;
+  background: linear-gradient(-180deg,#7B44B1,#7B44B1 );
 }
 .fab{
   margin-right: 7px;
