@@ -48,7 +48,14 @@ body{
   color:white;
   text-align: center;
 }
+.mock:hover{
+  color:black;
+}
+.main a{
+  text-decoration: none;
+}
 .main h1{
+  color: white;
   font-size: 100px;
   font-family: inherit;
 }
@@ -81,6 +88,7 @@ body{
   opacity: 1;
 }
 .btn{
+  text-decoration: none;
   font-family: inherit;
   opacity: 0.8;
   border-radius: 5px;
