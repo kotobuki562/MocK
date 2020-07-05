@@ -8,21 +8,20 @@ body{
   position :fixed;
   top: 0;
   z-index: 10;
-}
-.logo-left{
-  margin:13px 0px 0px 40px;
-}
-.fa-bars{
-  font-size: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .logo-left{
   float:left;
+}
+.fa-bars{
+  font-size: 50px;
 }
 .logo-center{
   text-align: center;
 }
 .logo{
-  margin-top: -35px;
   width:150px;
   height:145px;
 }
@@ -30,11 +29,9 @@ body{
   font-size: 50px;
 }
 .logo-right{
-  margin:-100px 80px 0px 0px;
-}
-.logo-right{
   float: right;
 }
+
 
 .container{
   max-width: 1600px;
@@ -80,6 +77,7 @@ body{
   opacity: 1;
 }
 .btn{
+  font-family: serif;
   opacity: 0.8;
   border-radius: 5px;
   padding:5px 0px;
