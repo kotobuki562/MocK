@@ -51,15 +51,18 @@ body{
   font-family: inherit;
 }
 .main p{
+  font-weight: 500;
   font-family: monospace;
   font-size: 15px;
 }
 .pixel{
+  font-weight: 900;
   color:rgb(118,251,220);
   font-family: inherit;
   font-size: 20px;
 }
 .fasion{
+  font-weight: 900;
   font-family: inherit;
   color:#F7CE48;
   font-size: 20px;
