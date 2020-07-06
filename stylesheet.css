@@ -116,7 +116,6 @@ body{
 }
 
 .apple{
-  width:25%;
   border-radius: 10px;
   background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
 
@@ -124,21 +123,18 @@ body{
   width:320px;
 }
 .banana{
-  width:25%;
   border-radius: 10px;
   background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
   height: 200px;
   width:320px;
 }
 .corn{
-  width:25%;
   border-radius: 10px;
   background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
   height: 200px;
   width:320px;
 }
 .donut{
-  width:25%;
   border-radius: 10px;
   background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
   height: 200px;
@@ -156,7 +152,6 @@ body{
   text-align: center;
 }
 .design{
-  margin-right: 20px;
   opacity: 0.8;
   margin-top:30px;
   float:left;
