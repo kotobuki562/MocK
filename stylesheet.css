@@ -91,8 +91,7 @@ body{
   font-family: inherit;
   opacity: 0.8;
   border-radius: 5px;
-  padding:5px 0px;
-  width:130px;
+  padding:5px 10px;
   display:inline-block;
 }
 .join{
@@ -102,12 +101,10 @@ body{
   background-color:#4DA0EB;
 }
 .Facebook{
-  margin-left: 15px;
   background-color:#415998;
 }
 .insta{
   background-size: auto;
-  margin-left: 15px;
   background: linear-gradient(-180deg,#7B44B1,#7B44B1 );
 }
 .fab{
@@ -155,7 +152,7 @@ body{
   font-family: Impact;
   border-radius: 7px;
   background: linear-gradient(#FFFFFF, #AB4BD2 ) fixed;
-  color:#F7CE48;
+  color:black;
   text-align: center;
 }
 .design{
