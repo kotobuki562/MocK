@@ -15,4 +15,9 @@
 .insta{
   margin-top: 20px;
 }
+.contents{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
 }
