@@ -1,39 +1,18 @@
-@media(max-width:500px){
-  .insta{
-    margin-top: 20px;
-    text-align: center;
-  }
-   .header{
-    background-color: white;
-    height:60px;
-    width:100%;
-    position :fixed;
-    top: 0;
-    z-index: 10;
-    display: flex;
-    justify-content:space-between;
-    align-items: center;
-    margin:0;
-  }
-  .logo-left{
-    margin-left: 30px;
-    float:left;
-  }
-  .fa-bars{
-    font-size: 50px;
-  }
-  .logo-center{
-    text-align: center;
-  }
-  .logo{
-    width:100px;
-    height:95px;
-  }
-  .far{
-    font-size: 30px;
-  }
-  .logo-right{
-    margin-right: 30px;
-    float: right;
-  }
+@media all and (max-width:500px){
+.btn-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:space-around;
+}
+.btn{
+  width:40%;
+  letter-spacing: 3px;
+}
+.Facebook{
+  margin-top: 20px;
+}
+.insta{
+  margin-top: 20px;
+}
 }
