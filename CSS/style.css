@@ -265,6 +265,7 @@ aside p{
     border-bottom: 1px #aeb3b1 solid;
 }
 .sub-menu a{
+    color: #4B3A24;
     padding: 10px;
     display: block;
 }
@@ -291,6 +292,7 @@ aside p{
         margin:  0 20px;
     }
     .logo{
+
         width: 60px;
     }
     /* blog */
